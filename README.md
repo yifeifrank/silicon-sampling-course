@@ -7,6 +7,10 @@ This demo uses language models to simulate a three-advisor discussion about a lo
 - [English notebook](notebooks/prospect_theory_experiment_en.ipynb)
 - [中文笔记本](notebooks/prospect_theory_experiment_zh.ipynb)
 
+## Course reading · 课程阅读
+
+- [Chapter 9. Social Simulation with Large Language Model Agents (English)](readings/social-simulation-with-llm-agents.md)
+
 ## Run the demo · 运行方法
 
 Install the dependencies in a Python 3.10 or later environment and open JupyterLab.
